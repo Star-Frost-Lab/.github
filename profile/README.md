@@ -1,4 +1,4 @@
-- 组织域名：star-frost-lab.de5.net
+- 组织域名：loushi.ccwu.cc
 # ❄️ 星霜实验室 (Star-Frost-Lab)
 
 **专注恒星大气热力学与低温等离子体动力学的高级计算研究。**
